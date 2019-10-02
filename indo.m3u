@@ -410,31 +410,130 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjatimsurabaya)/Stream(02)/ind
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIYogyakarta)/index.m3u8
 #EXTINF:-1,TVRI Yogyakarta
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/Stream(03)/index.m3u8
-#EXTINF:-1,UA TV
-http://210.210.155.35/qwr9ew/s/s47/index.m3u8
-#EXTINF:-1,WFTV 9
-http://svc-lvanvato-cxtv-wftv.cmgvideo.com/wftv/2564k/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bein Backup",Bein Sport 1 HD
-http://vip.fibertv.nl:8000/orange/orange/2098
-#EXTINF:-1 tvg-logo="" group-title="Bein Backup",Bein Sport 2 HD
-http://vip.fibertv.nl:8000/orange/orange/2099
-#EXTINF:-1 tvg-logo="" group-title="Bein Backup",Bein Sport 3 HD
-http://vip.fibertv.nl:8000/orange/orange/2100
-#EXTINF:-1 tvg-logo="" group-title="Bein Backup",Bein Sport 4 HD
-http://vip.fibertv.nl:8000/orange/orange/2101
-#EXTINF:-1 tvg-logo="" group-title="Bein Backup",Bein Sport 5 HD
-http://vip.fibertv.nl:8000/orange/orange/2102
-#EXTINF:-1 tvg-logo="" group-title="Bein Backup",Bein Sport 6 HD
-http://vip.fibertv.nl:8000/orange/orange/2103
-#EXTINF:-1 tvg-logo="" group-title="Bein Backup",Bein Sport 7 HD
-http://vip.fibertv.nl:8000/orange/orange/2104
-#EXTINF:-1 tvg-logo="" group-title="Bein Backup",Bein Sport 8 HD
-http://vip.fibertv.nl:8000/orange/orange/2105
-#EXTINF:-1 tvg-logo="" group-title="Bein Backup",Bein Sport 9 HD
-http://vip.fibertv.nl:8000/orange/orange/2106
-#EXTINF:-1 tvg-logo="" group-title="Bein Backup",Bein Sport 10 HD
-http://vip.fibertv.nl:8000/orange/orange/2107
-#EXTINF:-1 tvg-logo="" group-title="Bein Backup",Bein Sport 11 HD
-http://vip.fibertv.nl:8000/orange/orange/3728
-#EXTINF:-1 tvg-logo="" group-title="Bein Backup",Bein Sport 12 HD
-http://vip.fibertv.nl:8000/orange/orange/3729
+
+#EXTINF:-1 group-title="Local",Usee Info
+rtp://@239.1.2.233:9372
+#EXTINF:-1 group-title="Local",Usee Prime
+rtp://@239.1.1.216:9270
+#EXTINF:-1 group-title="Local",TVRI
+rtp://@239.1.1.37:8196
+#EXTINF:-1 group-title="Local",Metro TV
+rtp://@239.1.1.19:8088
+#EXTINF:-1 group-title="Local",CNN Indonesia
+rtp://@239.1.1.241:9362
+#EXTINF:-1 group-title="Local",TV One
+rtp://@239.1.1.31:8160
+#EXTINF:-1 group-title="Local",Trans TV
+rtp://@239.1.1.27:8136
+#EXTINF:-1 group-title="Local",Trans 7
+rtp://@239.1.2.29:8148
+#EXTINF:-1 group-title="Local",SCTV
+rtp://@239.1.1.21:8100
+#EXTINF:-1 group-title="Local",ANTV
+rtp://@239.1.1.15:8064
+#EXTINF:-1 group-title="Local",INDOSIAR
+rtp://@239.1.1.17:8076
+#EXTINF:-1 group-title="Local",!NSERT
+rtp://@239.1.1.113:8652
+#EXTINF:-1 group-title="Local",NET.TV
+rtp://@239.1.1.119:8688
+#EXTINF:-1 group-title="Local",NET.TV HD
+rtp://@239.1.1.158:8922
+#EXTINF:-1 group-title="Local",Kompas TV
+rtp://@239.1.1.197:9156
+#EXTINF:-1 group-title="Local",Berita Satu
+rtp://@239.1.1.183:9072
+#EXTINF:-1 group-title="Local",TV Edukasi
+rtp://@239.1.1.39:8208
+#EXTINF:-1 group-title="Local",Rajawali TV
+rtp://@239.1.1.69:8388
+
+#EXTINF:-1 group-title="Movies",HBO Hits
+rtp://@239.1.1.215:9264
+#EXTINF:-1 group-title="Movies",FOX Movies Premium
+rtp://@239.1.1.11:8040
+#EXTINF:-1 group-title="Movies",Cinema World
+rtp://@239.1.1.189:9108
+#EXTINF:-1 group-title="Movies",Bioskop Indonesia
+rtp://@239.1.1.226:9332
+
+#EXTINF:-1 group-title="Music",T-Music
+rtp://@239.1.1.163:8952
+
+#EXTINF:-1 group-title="Gen   Entertainment",ANIMAX
+rtp://@239.1.1.64:8358
+#EXTINF:-1 group-title="Gen   Entertainment",STAR World
+rtp://@239.1.1.171:9000
+#EXTINF:-1 group-title="Gen   Entertainment",STAR World HD
+rtp://@239.1.1.209:9228
+#EXTINF:-1 group-title="Gen   Entertainment",Lifetime
+rtp://@239.1.1.181:9266
+#EXTINF:-1 group-title="Gen   Entertainment",Aniplus
+rtp://@239.1.1.117:8676
+#EXTINF:-1 group-title="Gen   Entertainment",HI Indo
+rtp://@239.1.1.240:9348
+#EXTINF:-1 group-title="Gen   Entertainment",Dunia Lain
+rtp://@239.1.1.149:8868
+#EXTINF:-1 group-title="Gen   Entertainment",Tahan Tawa
+rtp://@239.1.1.231:9362
+#EXTINF:-1 group-title="Gen   Entertainment",Showcase
+rtp://@239.1.1.225:9326
+
+#EXTINF:-1 group-title="Kids",Dunia Anak
+rtp://@239.1.1.7:8016
+#EXTINF:-1 group-title="Kids",Duck TV
+rtp://@239.1.1.63:8352
+#EXTINF:-1 group-title="Kids",Spacetoon Plus
+rtp://@239.1.1.254:9338
+
+#EXTINF:-1 group-title="Knowledge",National   Geo
+rtp://@239.1.1.169:8988
+#EXTINF:-1 group-title="Knowledge",National   Geo HD
+rtp://@239.1.1.243:9432
+#EXTINF:-1 group-title="Knowledge",National   Geo Wild
+rtp://@239.1.1.35:8184
+#EXTINF:-1 group-title="Knowledge",National   Geo Wild HD
+rtp://@239.1.1.207:9216
+
+#EXTINF:-1 group-title="Lifestyle",Eat & Go
+rtp://@239.1.1.229:9350
+#EXTINF:-1 group-title="Lifestyle",Fashion One
+rtp://@239.1.1.127:8736
+
+#EXTINF:-1 group-title="News",Euronews
+rtp://@239.1.1.193:9132
+
+#EXTINF:-1 group-title="TV Series",FOX
+rtp://@239.1.1.43:8232
+#EXTINF:-1 group-title="TV Series",FOX HD
+rtp://239.1.1.247:9440
+#EXTINF:-1 group-title="TV Series",Fox Crime
+rtp://@239.1.1.161:8940
+#EXTINF:-1 group-title="Sport",Otomotif Channel
+rtp://@239.1.1.252:9486
+
+#EXTINF:-1 group-title="News",CGTN
+rtp://@239.1.2.121:8700
+#EXTINF:-1 group-title="News",CCTV 4
+rtp://@239.1.1.115:8664
+#EXTINF:-1 group-title="News",Al Jazeera
+rtp://@239.1.1.195:9144
+#EXTINF:-1 group-title="News",France 24
+rtp://@239.1.1.191:9120
+#EXTINF:-1 group-title="News",DW TV
+rtp://@239.1.1.187:9096
+
+#EXTINF:-1 group-title="Religi",DAAI TV
+rtp://@239.1.1.179:9048
+#EXTINF:-1 group-title="Religi",Khazanah
+rtp://@239.1.1.230:9356
+#EXTINF:-1 group-title="Religi",Al Quran
+rtp://@239.1.1.185:9084
+#EXTINF:-1 group-title="Religi",DMI Channel
+rtp://@239.1.1.232:9524
+#EXTINF:-1 group-title="Religi",MQTV
+rtp://@239.1.1.213:9252
+#EXTINF:-1 group-title="Religi",TV9
+rtp://@239.1.1.150:8874
+#EXTINF:-1 group-title="Religi",Rodja TV
+rtp://@239.1.1.224:9320
